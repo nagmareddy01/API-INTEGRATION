@@ -28,6 +28,7 @@ Styling is handled with CSS to enhance readability and provide a clean look. Col
 
 
 ##OUTPUT:
+![Image](https://github.com/user-attachments/assets/0876e4c6-4035-43e9-9731-e0195472e216)
 
 
 
