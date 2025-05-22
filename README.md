@@ -13,6 +13,9 @@ To develop such a webpage, the first step is to choose a suitable API. Many publ
 In conclusion, developing a webpage with API integration involves understanding the API documentation, structuring the webpage with HTML and CSS, and using JavaScript to fetch and display data dynamically. This process not only enriches the user experience but also demonstrates the power and flexibility of modern web technologies. Such projects serve as a foundational step for building more complex applications like dashboards, mobile apps, and full-stack systems that rely on real-time external data. API integration is a vital skill for any aspiring web developer and is increasingly important in today’s interconnected digital landscape.
 
 
+##OUTPUT
+![Image](https://github.com/user-attachments/assets/ad498f5b-b038-4ce0-a255-ae305f5f5b24)
+
 
 
 
